@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickzy360" alt="nickzy360" /></a> </p>
 
-- 📫 How to reach me **nickzydropships@gmail.com**
+- 📫 Reach me at **nickzydropships@gmail.com** or discord nickzy
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
